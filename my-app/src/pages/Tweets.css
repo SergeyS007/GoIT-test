@@ -1,0 +1,14 @@
+.tweets {
+  text-align: center;
+}
+.navTweets {
+  color: rgb(13, 222, 104);
+  text-decoration: none;
+  background-color: rgb(239, 239, 219);
+  padding: 10px;
+  border-radius: 10%;
+  font-weight: 700;
+}
+.navTweets:hover {
+  color: rgb(72, 13, 222);
+}
